@@ -31,3 +31,4 @@ initMenuMobile();
 initFuncionamento();
 initFetchAnimais();
 initFetchBitcoin();
+initDropdownMenu();
