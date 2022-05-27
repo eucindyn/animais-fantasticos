@@ -65,8 +65,12 @@
   width: 100%;
   padding: 0.7rem 0.5rem;
   box-sizing: border-box;
-  border-radius: 0px;
+}
+
+.modal #email, #senha{
+  outline: none;
   border: 2px solid var(--cor-tx);
+  border-radius: 4px;
 }
 
 .modal button[type='submit'] {
