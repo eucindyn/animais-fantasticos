@@ -1,3 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="7" height="8" viewBox="0 0 7 8">
-  <polygon fill="#E54" stroke="#E54" stroke-linejoin="round" points="0 0 0 6 6 3" transform="translate(1 1)"/>
+<svg width="7" height="8" viewBox="0 0 7 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_106_4)">
+<path d="M1 1V7L7 4L1 1Z" fill="#CE3C2C" stroke="#CE3C2C" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_106_4">
+<rect width="7" height="8" fill="white"/>
+</clipPath>
+</defs>
 </svg>

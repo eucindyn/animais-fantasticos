@@ -1,8 +1,8 @@
 :root {
-  --cor-bg: #faf6ed;
+  --cor-bg: #FFFDF8;
   --cor-bg2: #fb5;
   --cor-tx: #222222;
-  --cor-tx2: #e54;
+  --cor-tx2: #CE3C2C;
   --cor-tx3: #fff;
 }
 
@@ -18,6 +18,7 @@ html.sizetext {
 
 img {
   display: block;
+  height: auto;
   max-width: 100%;
 }
 

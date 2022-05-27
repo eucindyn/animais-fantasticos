@@ -1,11 +1,3 @@
-:root {
-  --cor-bg: #faf6ed;
-  --cor-bg2: #fb5;
-  --cor-tx: #222222;
-  --cor-tx2: #e54;
-  --cor-tx3: #fff;
-}
-
 .galeria {
   grid-column: 1 / -1;
 }

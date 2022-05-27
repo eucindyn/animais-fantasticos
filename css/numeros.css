@@ -11,7 +11,7 @@
   }
 }
 
-.numeros-grid h3 {
+.numeros-grid h2 {
   font-family: 'Playfair Display SC';
   font-size: 2rem;
   margin-bottom: .5rem;
@@ -28,7 +28,7 @@
   .numeros-grid {
     grid-column: 1;
   }
-  .numeros-grid h3 {
+  .numeros-grid h2 {
     font-size: 1.5rem;
   }
 }
