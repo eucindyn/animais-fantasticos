@@ -18,7 +18,7 @@
 .modal {
   background: white;
   width: 80vw;
-  max-width: 600px;
+  max-width: 500px;
   padding: 40px;
   border: 10px solid var(--cor-bg2);
   box-shadow: 0 0 0 10px white;
@@ -65,6 +65,8 @@
   width: 100%;
   padding: 0.7rem 0.5rem;
   box-sizing: border-box;
+  border-radius: 0px;
+  border: 2px solid var(--cor-tx);
 }
 
 .modal button[type='submit'] {
