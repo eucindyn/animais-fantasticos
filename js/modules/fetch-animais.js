@@ -6,7 +6,6 @@ export default function fetchAnimais(url, target) {
     const div = document.createElement('div');
     div.classList.add('numero-animal');
     div.innerHTML = `<h2>${animal.especie}</h2><span data-numero>${animal.total}</span>`;
-    
     return div;
   }
 
